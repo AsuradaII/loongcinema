@@ -1,11 +1,11 @@
 <?php
 
 /**
-/**
  * 火烈鸟系统出票接口
+ * @since           2016-06-02
+ * @version         1.0
  * @author esyy <esyy@qq.com>
  */
-**/
 
 class LoongcinemaModel extends Model {
 	/*/test
